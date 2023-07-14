@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077152714917",
+    "project_id": "cuisineapp-85bb0",
+    "storage_bucket": "cuisineapp-85bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077152714917:android:063812c4ae4dee6206bd4c",
+        "android_client_info": {
+          "package_name": "com.example.jcuisineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077152714917-va2rj39hjg1ds12c2t2u973kkq29af9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZ_VyFLLzckDG0rSsyowtesP_daN8xHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077152714917-va2rj39hjg1ds12c2t2u973kkq29af9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
